@@ -9,27 +9,23 @@ Cybersecurity Professional focused on SOC operations, threat detection, and inci
 ## Objective
 I want to leverage my skills in ethical hacking, threat detection, and network defense to protect digital assets and improve system resilience. I aim to contribute to a forward-thinking cybersecurity team as Security Operations Center (SOC) Analyst (Tier 1) where I can apply my technical expertise, continuous learning mindset, and passion for secure innovation to mitigate risks and strengthen organizational security posture.
 
-## Skills
+## Hands-on Projects
 
-| Skill                                         | Associated Project         |
+| Project                                       | Project link         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Active Directory           | <a href="https://google.com">Active Directory </a>|
+| Vulnerability scanning with Nessus | <a href="https://google.com">Vulnerability scanning with Nessus</a>|
+| Network traffic analysis with Wireshark| <a href="https://google.com">Network traffic analysis with Wireshark</a>|
+| Setting up a virtual network using PacketTracer| <a href="https://google.com">Setting up a virtual network using PacketTracer</a>|
+| Web Application testing using ZAProxy| <a href="https://google.com">Web Application testing using ZAProxy</a>|
+| SQL injection using Burpe Suite| <a href="https://google.com">SQL injection using Burpe Suite</a>|
+| Hacking of Metasploitable 2| <a href="https://google.com">Hacking of Metasploitable 2</a>|
+| Social Engineering (Setoolkit) for phishing simulation| <a href="https://google.com">Social Engineering (Setoolkit) for phishing simulation</a>|
+| Malware analysis using| <a href="https://google.com">Malware analysis</a>|
+| DNS enumeration| <a href="https://google.com">DNS enumeration</a>|
+| Network Reconnaissance using Nmap| <a href="https://google.com">Network Reconnaissance using Nmap</a>|
+| Overthewire Bandit CTF| <a href="https://google.com">Overthewire Bandit CTF</a>|
 
-## Projects
-- Active Directory 
-- Vulnerability scanning with Nessus
-- Network traffic analysis with Wireshark
-- Setting up a virtual network using PacketTracer
-- Web Application security using ZAProxy
-- SQL injection using Burpe Suite
-- Hacking of Metasploitable 2
-- Social Engineering (Setoolkit) for phishing
-- Wireless hacking with Kali Linux
-- Malware analysis using virustotal.com
-- DNS enumeration
-- Network Reconnaissance using Nmap
-- Overthewire Bandit CTF
 
 ## Tools
 ### Network Tools
