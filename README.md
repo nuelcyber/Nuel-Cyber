@@ -10,7 +10,6 @@ I want to leverage my skills in ethical hacking, threat detection, and network d
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -51,8 +50,10 @@ I want to leverage my skills in ethical hacking, threat detection, and network d
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/ISC%C2%B2%20CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+
 </div>
 
 ## Projects
