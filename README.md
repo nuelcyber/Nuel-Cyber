@@ -14,15 +14,15 @@ I want to leverage my skills in ethical hacking, threat detection, and network d
 | Project                                       | Project link         |
 |-----------------------------------------------|----------------------------|
 | Active Directory           | <a href="https://google.com">Active Directory </a>|
-| Vulnerability scanning with Nessus | <a href="https://google.com">Vulnerability scanning with Nessus</a>|
-| Network traffic analysis with Wireshark| <a href="https://google.com">Network traffic analysis with Wireshark</a>|
-| Setting up a virtual network using PacketTracer| <a href="https://google.com">Setting up a virtual network using PacketTracer</a>|
-| Web Application testing using ZAProxy| <a href="https://google.com">Web Application testing using ZAProxy</a>|
-| SQL injection using Burpe Suite| <a href="https://google.com">SQL injection using Burpe Suite</a>|
+| Vulnerability scanning with Nessus | <a href="https://google.com">Nessus Vulnerability Scanning</a>|
+| Network traffic analysis with Wireshark| <a href="https://google.com">Network traffic analysis</a>|
+| Setting up a virtual network using PacketTracer| <a href="https://google.com">Setting up a Virtual network using PacketTracer</a>|
+| Web Application testing using ZAProxy| <a href="https://google.com">Web Application testing</a>|
+| SQL injection using Burpe Suite| <a href="https://google.com">SQL injection using</a>|
 | Hacking of Metasploitable 2| <a href="https://google.com">Hacking of Metasploitable 2</a>|
-| Social Engineering (Setoolkit) for phishing simulation| <a href="https://google.com">Social Engineering (Setoolkit) for phishing simulation</a>|
-| Malware analysis| <a href="https://google.com">Malware analysis</a>|
-| DNS enumeration| <a href="https://google.com">DNS enumeration</a>|
+| Social Engineering simulation| <a href="https://google.com">Social Engineering simulation</a>|
+| Malware Analysis| <a href="https://google.com">Malware Analysis</a>|
+| DNS Enumeration| <a href="https://google.com">DNS Enumeration</a>|
 | Network Reconnaissance using Nmap| <a href="https://google.com">Network Reconnaissance using Nmap</a>|
 | Overthewire Bandit CTF| <a href="https://google.com">Overthewire Bandit CTF</a>|
 
