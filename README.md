@@ -1,6 +1,6 @@
 # Hello, I'm Oluwatobi Emmanuel Owoeye
 <a href="https://www.linkedin.com/in/oluwatobi-emmanuel-owoeye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://diploma.gomycode.app/?id=31763395236571600"><img src="https://img.shields.io/badge/-GOMYCODE-red?&style=for-the-badge&logo=GOMYCODE&logoColor=white" /></a>
+<a href="https://diploma.gomycode.app/?id=31763395236571600"><img src="https://img.shields.io/badge/-GOMYCODE-deepred?&style=for-the-badge&logo=GOMYCODE&logoColor=white" /></a>
 <a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 
 I am a Cybersecurity professional dedicated to safeguarding digital systems through threat analysis, penetration testing, and secure architecture design. Passionate about turning complex security challenges into practical solutions, blending research, automation, and ethical hacking to build stronger defenses.
