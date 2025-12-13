@@ -1,28 +1,22 @@
-# Hello, I'm Oluwatobi Emmanuel Owoeye
+## Hello, I'm Oluwatobi Emmanuel Owoeye
 <a href="https://www.linkedin.com/in/oluwatobi-emmanuel-owoeye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://diploma.gomycode.app/?id=31763395236571600"><img src="https://img.shields.io/badge/-GOMYCODE-red?&style=for-the-badge&logo=GOMYCODE&logoColor=white" /></a>
 <a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 
-# About Me
-- Passionate about cybersecurity and ethical hacking
-- Hands-on experience with web application security (SQLi, XSS)
-- Interested in SOC analysis, penetration testing, and blue-team defense
-- Always learning and building practical security projects
+## About Me
+Cybersecurity Professional focused on SOC operations, threat detection, and incident response. Hands-on experience with web security labs, DNS analysis, and log investigation, with a strong interest in blue-team defense and continuous learning.
 
-I am a Cybersecurity professional dedicated to safeguarding digital systems through threat analysis, and secure architecture design. Passionate about turning complex security challenges into practical solutions, blending research, automation, and ethical hacking to build stronger defenses.
-
-# Objective
+## Objective
 I want to leverage my skills in ethical hacking, threat detection, and network defense to protect digital assets and improve system resilience. I aim to contribute to a forward-thinking cybersecurity team as Security Operations Center (SOC) Analyst (Tier 1) where I can apply my technical expertise, continuous learning mindset, and passion for secure innovation to mitigate risks and strengthen organizational security posture.
 
-
-# Skills
+## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
-# Projects
+## Projects
 - Active Directory 
 - Vulnerability scanning with Nessus
 - Network traffic analysis with Wireshark
@@ -37,37 +31,42 @@ I want to leverage my skills in ethical hacking, threat detection, and network d
 - Network Reconnaissance using Nmap
 - Overthewire Bandit CTF
 
-# Tools
+## Tools
 ### Network Tools
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF6A00?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
 <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 <img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-262626?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/-Metasploitable%202-00ADEF?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploitable 2" />
+
 </div>
 
 ### Endpoint Tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM Tools
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<div>    
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   
 </div>
 
-# Certifications
+## Certifications
 <div>
-<img src="https://img.shields.io/badge/ISC%C2%B2%20CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/CISSP-white?style=for-the-badge&labelColor=Blue&color=blue" />
-<img src="https://img.shields.io/badge/SSCP-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
+<img src="https://img.shields.io/badge/ISC%C2%B2%20CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
 
 </div>
+
+## Learning & Practice
+- PortSwigger Web Security Academy
+- TryHackMe
+- Hack The Box
+
+# Connect With Me
+- Email: thisisnuel@gmail.com
+- Phone Number: +2347038510244
+
