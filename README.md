@@ -3,27 +3,42 @@
 <a href="https://diploma.gomycode.app/?id=31763395236571600"><img src="https://img.shields.io/badge/-GOMYCODE-red?&style=for-the-badge&logo=GOMYCODE&logoColor=white" /></a>
 <a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 
-I am a Cybersecurity professional dedicated to safeguarding digital systems through threat analysis, penetration testing, and secure architecture design. Passionate about turning complex security challenges into practical solutions, blending research, automation, and ethical hacking to build stronger defenses.
+# About Me
+- Passionate about cybersecurity and ethical hacking
+- Hands-on experience with web application security (SQLi, XSS)
+- Interested in SOC analysis, penetration testing, and blue-team defense
+- Always learning and building practical security projects
 
-## Objective
+I am a Cybersecurity professional dedicated to safeguarding digital systems through threat analysis, and secure architecture design. Passionate about turning complex security challenges into practical solutions, blending research, automation, and ethical hacking to build stronger defenses.
+
+# Objective
 I want to leverage my skills in ethical hacking, threat detection, and network defense to protect digital assets and improve system resilience. I aim to contribute to a forward-thinking cybersecurity team as Security Operations Center (SOC) Analyst (Tier 1) where I can apply my technical expertise, continuous learning mindset, and passion for secure innovation to mitigate risks and strengthen organizational security posture.
 
 
-## Skills
+# Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+# Projects
+- Active Directory 
+- Vulnerability scanning with Nessus
+- Network traffic analysis with Wireshark
+- Setting up a virtual network using PacketTracer
+- Web Application security using ZAProxy
+- SQL injection using Burpe Suite
+- Hacking of Metasploitable 2
+- Social Engineering (Setoolkit) for phishing
+- Wireless hacking with Kali Linux
+- Malware analysis using virustotal.com
+- DNS enumeration
+- Network Reconnaissance using Nmap
+- Overthewire Bandit CTF
 
-### Network
+# Tools
+### Network Tools
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -35,27 +50,24 @@ I want to leverage my skills in ethical hacking, threat detection, and network d
 <img src="https://img.shields.io/badge/-Metasploitable%202-00ADEF?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploitable 2" />
 </div>
 
-### Endpoint
+### Endpoint Tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM Tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+# Certifications
 <div>
 <img src="https://img.shields.io/badge/ISC%C2%B2%20CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<img src="https://img.shields.io/badge/CISSP-white?style=for-the-badge&labelColor=Blue&color=blue" />
+<img src="https://img.shields.io/badge/SSCP-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
 
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
