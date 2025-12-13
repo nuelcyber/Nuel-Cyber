@@ -62,7 +62,7 @@ I want to leverage my skills in ethical hacking, threat detection, and network d
 - TryHackMe
 - Hack The Box
 
-# Connect With Me
+## Connect With Me
 - Email: thisisnuel@gmail.com
 - Phone Number: +2347038510244
 
