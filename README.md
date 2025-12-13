@@ -21,7 +21,7 @@ I want to leverage my skills in ethical hacking, threat detection, and network d
 | SQL injection using Burpe Suite| <a href="https://google.com">SQL injection using Burpe Suite</a>|
 | Hacking of Metasploitable 2| <a href="https://google.com">Hacking of Metasploitable 2</a>|
 | Social Engineering (Setoolkit) for phishing simulation| <a href="https://google.com">Social Engineering (Setoolkit) for phishing simulation</a>|
-| Malware analysis using| <a href="https://google.com">Malware analysis</a>|
+| Malware analysis| <a href="https://google.com">Malware analysis</a>|
 | DNS enumeration| <a href="https://google.com">DNS enumeration</a>|
 | Network Reconnaissance using Nmap| <a href="https://google.com">Network Reconnaissance using Nmap</a>|
 | Overthewire Bandit CTF| <a href="https://google.com">Overthewire Bandit CTF</a>|
