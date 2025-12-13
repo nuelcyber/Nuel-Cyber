@@ -4,10 +4,10 @@
 <a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 
 ## About Me
-Cybersecurity Professional focused on SOC operations, threat detection, and incident response. Hands-on experience with web security labs, DNS analysis, and log investigation, with a strong interest in blue-team defense and continuous learning.
+I am a Cybersecurity Professional focused on SOC operations, threat detection, and incident response. Hands-on experience with web security labs, vulnerability scanning, Network analysis, DNS analysis, and log investigation, with a strong interest in blue-team defense and continuous learning.
 
 ## Objective
-I want to leverage my skills in ethical hacking, threat detection, and network defense to protect digital assets and improve system resilience. I aim to contribute to a forward-thinking cybersecurity team as Security Operations Center (SOC) Analyst (Tier 1) where I can apply my technical expertise, continuous learning mindset, and passion for secure innovation to mitigate risks and strengthen organizational security posture.
+I want to leverage my skills to protect digital assets and improve system resilience. I aim to contribute to a forward-thinking cybersecurity team as Security Operations Center (SOC) Analyst (Tier 1) where I can apply my technical expertise, continuous learning mindset, and passion for secure innovation to mitigate risks and strengthen organizational security posture.
 
 ## Hands-on Projects
 
