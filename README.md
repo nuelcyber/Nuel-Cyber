@@ -16,15 +16,15 @@ I want to leverage my skills to protect digital assets and improve system resili
 |-----------------------------------------------|----------------------------|
 | Active Directory           | <a href="">Active Directory </a>|
 | Vulnerability scanning with Nessus | <a href="https://github.com/nuelcyber/Nessus-Vulnerability-Scanning">Nessus Vulnerability Scanning</a>|
-| Network traffic analysis with Wireshark| <a href="https://google.com">Network traffic analysis</a>|
-| Setting up a virtual network using PacketTracer| <a href="https://google.com">Virtual network on PacketTracer</a>|
-| Web Application testing using ZAProxy| <a href="https://google.com">Web Application testing</a>|
-| SQL injection using Burpe Suite| <a href="https://google.com">SQL injection using</a>|
+| Network traffic analysis with Wireshark| <a href="https://google.com">Network Traffic Analysis</a>|
+| Setting up a virtual network using PacketTracer| <a href="https://google.com">Virtual Network on PacketTracer</a>|
+| Web Application testing using ZAProxy| <a href="https://google.com">Web Application Testing</a>|
+| SQL injection Simulation using Burpe Suite| <a href="https://google.com">SQL Injection Simulation</a>|
 | Hacking of Metasploitable 2| <a href="https://google.com">Hacking of Metasploitable 2</a>|
-| Social Engineering simulation| <a href="https://google.com">Social Engineering simulation</a>|
+| Social Engineering simulation| <a href="https://google.com">Social Engineering Simulation</a>|
 | Malware Analysis| <a href="https://google.com">Malware Analysis</a>|
 | DNS Enumeration| <a href="https://google.com">DNS Enumeration</a>|
-| Network Reconnaissance using Nmap| <a href="https://google.com">Network Reconnaissance using Nmap</a>|
+| Network Reconnaissance using Nmap| <a href="https://google.com">Network Reconnaissance</a>|
 | Overthewire Bandit CTF| <a href="https://google.com">Overthewire Bandit CTF</a>|
 
 
