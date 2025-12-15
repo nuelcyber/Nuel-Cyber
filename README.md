@@ -14,8 +14,8 @@ I want to leverage my skills to protect digital assets and improve system resili
 
 | Project                                       | Project link         |
 |-----------------------------------------------|----------------------------|
-| Active Directory           | <a href="https://google.com">Active Directory </a>|
-| Vulnerability scanning with Nessus | <a href="https://google.com">Nessus Vulnerability Scanning</a>|
+| Active Directory           | <a href="">Active Directory </a>|
+| Vulnerability scanning with Nessus | <a href="https://github.com/nuelcyber/Nessus-Vulnerability-Scanning">Nessus Vulnerability Scanning</a>|
 | Network traffic analysis with Wireshark| <a href="https://google.com">Network traffic analysis</a>|
 | Setting up a virtual network using PacketTracer| <a href="https://google.com">Virtual network on PacketTracer</a>|
 | Web Application testing using ZAProxy| <a href="https://google.com">Web Application testing</a>|
