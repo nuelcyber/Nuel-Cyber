@@ -4,7 +4,8 @@
 <a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 
 ## About Me
-I am a Cybersecurity Professional focused on SOC operations, threat detection, and incident response. Hands-on experience with web security labs, vulnerability scanning, Network analysis, DNS analysis, and log investigation, with a strong interest in blue-team defense and continuous learning.
+Cybersecurity Professional focused on SOC operations, with hands-on experience in vulnerability assessments,  threat detection, incident response, network reconnaissance, firewall configuration, malware analysis, and network security. I have a strong problem-solving and analytical mindset, and I am passionate and motivated about continuous learning and contributing to the cybersecurity industry.
+
 
 ## Objective
 I want to leverage my skills to protect digital assets and improve system resilience. I aim to contribute to a forward-thinking cybersecurity team as Security Operations Center (SOC) Analyst (Tier 1) where I can apply my technical expertise, continuous learning mindset, and passion for secure innovation to mitigate risks and strengthen organizational security posture.
@@ -31,17 +32,11 @@ I want to leverage my skills to protect digital assets and improve system resili
 ### Network Tools
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF6A00?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
 <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 <img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-262626?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 
-</div>
-
-### Endpoint Tools
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM Tools
@@ -52,8 +47,7 @@ I want to leverage my skills to protect digital assets and improve system resili
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/ISC%C2%B2%20CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
+<img src="https://img.shields.io/badge/CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
 
 </div>
 
