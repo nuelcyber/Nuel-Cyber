@@ -1,7 +1,7 @@
 ## Hello, I'm Oluwatobi Emmanuel Owoeye
 <a href="https://www.linkedin.com/in/oluwatobi-emmanuel-owoeye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://diploma.gomycode.app/?id=31763395236571600"><img src="https://img.shields.io/badge/-GOMYCODE-red?&style=for-the-badge&logo=GOMYCODE&logoColor=white" /></a>
 <a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="https://diploma.gomycode.app/?id=31763395236571600"><img src="https://img.shields.io/badge/-GOMYCODE-red?&style=for-the-badge&logo=GOMYCODE&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/60f51282-f54a-4974-9088-e590dde7bc5f"><img src="https://img.shields.io/badge/CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" /></a>
 
 ## About Me
