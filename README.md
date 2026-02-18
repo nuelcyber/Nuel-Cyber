@@ -5,16 +5,17 @@
 <a href="https://www.credly.com/badges/60f51282-f54a-4974-9088-e590dde7bc5f"><img src="https://img.shields.io/badge/CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" /></a>
 
 ## About Me
-Cybersecurity Professional focused on SOC operations, with hands-on experience in vulnerability assessments,  threat detection, incident response, network reconnaissance, firewall configuration, malware analysis, and network security. I have a strong problem-solving and analytical mindset, and I am passionate and motivated about continuous learning and contributing to the cybersecurity industry.
+Azure Cloud Security professional focused on SOC operations, with hands-on experience in Azure Sentinel, Azure Defender for Cloud, identity and access management (IAM), role-based access control (RBAC), threat detection, incident response, vulnerability management, network security groups (NSGs), firewall configuration, and cloud security monitoring. I have a strong analytical mindset and am passionate about continuous learning and contributing to securing cloud environments in the Azure ecosystem
 
 
 ## Objective
-I want to leverage my skills to protect digital assets and improve system resilience. I aim to contribute to a forward-thinking cybersecurity team as Security Operations Center (SOC) Analyst (Tier 1) where I can apply my technical expertise, continuous learning mindset, and passion for secure innovation to mitigate risks and strengthen organizational security posture.
+Exploring and demonstrating practical Azure Cloud Security solutions, from threat detection and incident response to RBAC, IAM, and network security configurations. Focused on building secure cloud environments, sharing knowledge, and contributing to the Azure cybersecurity community.
 
 ## Hands-on Projects
 
 | Project                                       | Project link         |
 |-----------------------------------------------|----------------------------|
+| Azure Role-Based Access Control Implementation Lab | <a href="https://github.com/nuelcyber/Azure-Role-Based-Access-Control">Azure Role-Based Access Control</a>|
 | Nessus Vulnerability Scanning | <a href="https://github.com/nuelcyber/Nessus-Vulnerability-Scanning">Nessus Vulnerability Scanning</a>|
 | Network traffic analysis with Wireshark| <a href="https://github.com/nuelcyber/Network-Analysis-using-Wireshark">Network Traffic Analysis</a>|
 | Setting up a virtual network using PacketTracer| <a href="https://github.com/nuelcyber/Virtual-Network-on-Packet-Tracer">Virtual Network on PacketTracer</a>|
