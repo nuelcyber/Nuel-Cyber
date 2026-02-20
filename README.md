@@ -16,6 +16,7 @@ Exploring and demonstrating practical Azure Cloud Security solutions, from threa
 | Project                                       | Project link         |
 |-----------------------------------------------|----------------------------|
 | Azure Role-Based Access Control Implementation Lab | <a href="https://github.com/nuelcyber/Azure-Role-Based-Access-Control">Azure Role-Based Access Control</a>|
+| Azure Network Segmentation Using ASGs and NSGs | <a href="https://github.com/nuelcyber/Azure-Network-Segmentation-Using-ASGs-and-NSGs">Azure Network Segmentation Using ASGs and NSGs</a>|
 | Nessus Vulnerability Scanning | <a href="https://github.com/nuelcyber/Nessus-Vulnerability-Scanning">Nessus Vulnerability Scanning</a>|
 | Network traffic analysis with Wireshark| <a href="https://github.com/nuelcyber/Network-Analysis-using-Wireshark">Network Traffic Analysis</a>|
 | Setting up a virtual network using PacketTracer| <a href="https://github.com/nuelcyber/Virtual-Network-on-Packet-Tracer">Virtual Network on PacketTracer</a>|
