@@ -3,12 +3,14 @@
 <a href="https://x.com/nuel_og"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://diploma.gomycode.app/?id=31763395236571600"><img src="https://img.shields.io/badge/-GOMYCODE-red?&style=for-the-badge&logo=GOMYCODE&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/60f51282-f54a-4974-9088-e590dde7bc5f"><img src="https://img.shields.io/badge/CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" /></a>
+<a href="https://www.credly.com/badges/a422fb1b-a1dd-4702-b7b5-3c115a3f5aff"><img src="https://img.shields.io/badge/Security_+-white?style=for-the-badge&logo=CompTIA&logoColor=White&logoSize=auto&color=red" /></a>
+
 
 ## About Me
 Azure Cloud Security professional focused on SOC operations, with hands-on experience in Azure Sentinel, Azure Defender for Cloud, identity and access management (IAM), role-based access control (RBAC), threat detection, incident response, vulnerability management, network security groups (NSGs), firewall configuration, and cloud security monitoring. I have a strong analytical mindset and am passionate about continuous learning and contributing to securing cloud environments in the Azure ecosystem
 
 
-## Objective
+## Objectives
 Exploring and demonstrating practical Azure Cloud Security solutions, from threat detection and incident response to RBAC, IAM, and network security configurations. Focused on building secure cloud environments, sharing knowledge, and contributing to the Azure cybersecurity community.
 
 ## Hands-on Projects
@@ -24,7 +26,6 @@ Exploring and demonstrating practical Azure Cloud Security solutions, from threa
 | SQL injection Simulation using Burpe Suite| <a href="https://github.com/nuelcyber/SQL-Injection-Simulation">SQL Injection Simulation</a>|
 | Hacking of Metasploitable 2| <a href="https://github.com/nuelcyber/Hacking-of-Metasploitable-2">Hacking of Metasploitable 2</a>|
 | Social Engineering Simulation| <a href="https://github.com/nuelcyber/Social-Engineering-Simulation">Social Engineering Simulation</a>|
-| Malware Analysis| <a href="https://github.com/nuelcyber/Malware-Analysis">Malware Analysis</a>|
 | Domain Analysis| <a href="https://github.com/nuelcyber/Domain-Analysis">Domain Analysis</a>|
 | Network Reconnaissance using Nmap| <a href="https://github.com/nuelcyber/Network-Reconnaissance-using-Nmap">Network Reconnaissance</a>|
 | Overthewire Bandit CTF| <a href="https://github.com/nuelcyber/Overthewire-Bandit-CTF">Overthewire Bandit CTF</a>|
@@ -46,14 +47,13 @@ Exploring and demonstrating practical Azure Cloud Security solutions, from threa
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/Wazuh-white?style=for-the-badge&logo=Wazuh&logoColor=red&logoSize=auto&color=blue" />
 
-
-
-   
 </div>
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" />
+<a href="https://www.credly.com/badges/60f51282-f54a-4974-9088-e590dde7bc5f"><img src="https://img.shields.io/badge/CC-white?style=for-the-badge&logo=ISC2&logoColor=White&logoSize=auto&color=deepgreen" /></a>
+<a href="https://www.credly.com/badges/a422fb1b-a1dd-4702-b7b5-3c115a3f5aff"><img src="https://img.shields.io/badge/Security_+-white?style=for-the-badge&logo=CompTIA&logoColor=White&logoSize=auto&color=red" /></a>
+
 
 </div>
 
